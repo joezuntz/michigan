@@ -3,4 +3,3 @@ matplotlib
 astropy
 emcee
 scipy
-camb
