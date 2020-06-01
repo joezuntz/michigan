@@ -1,0 +1,9 @@
+#!/usr/bin/env bash
+
+
+apt-get update && apt-get install -y gfortran-8 && apt-get clean all
+
+ln -s /usr/bin/gfortran-8 /usr/bin/gfortran
+
+pip install camb
+
