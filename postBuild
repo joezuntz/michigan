@@ -3,6 +3,6 @@ set -e
 
 mkdir ./gfortran-8
 ln -s /usr/bin/gfortran-8 ./gfortran-8/gfortran
-export PYTHONPATH=$PYTHONPATH:$PWD/gfortran-8
+export PATH=$PATH:$PWD/gfortran-8
 pip install camb
 
