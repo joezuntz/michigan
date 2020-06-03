@@ -3,5 +3,3 @@ matplotlib
 astropy
 emcee
 scipy
-Cython
-ultranest
