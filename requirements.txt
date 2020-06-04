@@ -5,3 +5,4 @@ emcee
 scipy
 cython
 h5py
+healpy
