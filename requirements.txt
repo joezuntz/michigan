@@ -3,3 +3,5 @@ matplotlib
 astropy
 emcee
 scipy
+cython
+h5py
